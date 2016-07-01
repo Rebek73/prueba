@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "1797601ba7e58ef4a91479cb03668be8"
+build_time: [520681963, 550597000]
+inputs:
+  "/Users/Monroy/Desktop/Programas/PruebaGit/PruebaGit/ViewController.swift": [520681939, 0]
+  "/Users/Monroy/Desktop/Programas/PruebaGit/PruebaGit/AppDelegate.swift": [520681939, 0]
